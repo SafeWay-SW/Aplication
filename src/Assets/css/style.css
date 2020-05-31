@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    font-size: 100%;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+a, a:hover{text-decoration: none;}
+li{list-style-type: none;}
+audio, img, iframe, video{
+    display: inline-block;
+    height: auto;
+    width: 100%;
+}
+/*Buttons*/
+.bt-orange{
+    background-color: #F2BF27;
+    color: #F2BF27;
+}
