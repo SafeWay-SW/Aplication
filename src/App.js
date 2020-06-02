@@ -1,11 +1,4 @@
-import React from 'react';
-import { } from './StyledMain';
-const App = () => {
-  return (
-    <Template>
-      
-    </Template>
-  );
-}
-
+import React from "react";
+import Routes from "./routes";
+const App = () => <Routes />;
 export default App;
