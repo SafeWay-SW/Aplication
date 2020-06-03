@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import "./styles/global";
+import "../../styles/global";
 import Logo from "../../assets/logo.png";
 
 import { Form, Container } from "./styles";
